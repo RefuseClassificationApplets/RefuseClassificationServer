@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact name="web-mvc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_mvc_jar</output-path>
+    <root id="root">
+      <element id="archive" name="web-mvc.jar">
+        <element id="module-output" name="web-mvc" />
+      </element>
+      <element id="library" level="project" name="Maven: org.apache.derby:derbyshared:10.15.1.3" />
+      <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+      <element id="library" level="project" name="Maven: javax.mail:javax.mail-api:1.6.2" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+      <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:2.7.1" />
+      <element id="library" level="project" name="Maven: io.pebbletemplates:pebble:3.1.2" />
+      <element id="library" level="project" name="Maven: com.sun.mail:javax.mail:1.6.2" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.47" />
+      <element id="library" level="project" name="Maven: org.json:json:20170516" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.0" />
+      <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk15on:1.56" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.0" />
+      <element id="library" level="project" name="Maven: org.unbescape:unbescape:1.1.6.RELEASE" />
+      <element id="javaee-facet-resources" facet="web-mvc/web/Web" />
+      <element id="artifact" artifact-name="web-mvc:war" />
+    </root>
+  </artifact>
+</component>
